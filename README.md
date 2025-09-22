@@ -70,6 +70,7 @@ From vm1 → copied private IP (10.1.1.4).
 Reset password for vm2 → logged in via Serial Console.
 Ran:hostname -I   # confirmed vm2’s private IP (10.2.2.4)
 ping 10.1.1.4
+
 4️⃣ Configure VNet Peering Between vnet2 and vnet3 (Gateway Transit)
 
 Go to vnet2 → Peerings → +Add.
