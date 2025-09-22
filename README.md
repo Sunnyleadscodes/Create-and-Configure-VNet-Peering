@@ -25,6 +25,7 @@ Network Connectivity Testing (via VM console)
 | Gateway        | `vpngw` with public IP `vpngwip`        |
 | Test VMs       | `vm1`, `vm2`, `vm3`                     |
 | Region         | East US (same region for all resources) |
+
 🚀 Step-by-Step Implementation
 1️⃣ Configure a VPN Gateway
 
@@ -82,6 +83,7 @@ Local link: vnet2-to-vnet3.
 Enabled: “Allow gateway transit”.
 
 Added → Verified Peering = Connected.
+
 5️⃣ Test Connectivity (vnet2 ↔ vnet3)
 
 From vm2 Serial Console:ping 10.3.3.4
