@@ -27,6 +27,7 @@ Network Connectivity Testing (via VM console)
 | Region         | East US (same region for all resources) |
 
 🚀 Step-by-Step Implementation
+
 1️⃣ Configure a VPN Gateway
 
 Open vnet2 → Subnets → +Subnet
