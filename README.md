@@ -1,6 +1,7 @@
 # Create-and-Configure-VNet-Peering
 Hands-on Azure lab demonstrating VNet peering between hub-and-spoke networks, VPN Gateway setup, and connectivity validation via private IPs across VMs.
 🌐 Azure Lab: Create and Configure VNet Peering
+
 📖 Overview
 
 In this lab, I created and tested Azure Virtual Network (VNet) peering connections with advanced options such as Gateway Transit and VPN Gateways.
