@@ -20,7 +20,7 @@ Gateway Transit
 Network Connectivity Testing (via VM console)
 | Item           | Value                                   |
 | -------------- | --------------------------------------- |
-| Resource Group | `create-and-configure-vnet-peering`     |
+| Resource Group | `99-e6c2a5e7`     |
 | VNets          | `vnet1`, `vnet2`, `vnet3`               |
 | Subnets        | Default + GatewaySubnet                 |
 | Gateway        | `vpngw` with public IP `vpngwip`        |
